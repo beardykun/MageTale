@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mage Tale</string>
+
+    <string-array name="Chapter1_dialog">
+        <item>Jimmy wake up! Wake up you lazy jerk!</item>
+        <item>Leave me alone! It's to early to be awake anyway!</item>
+        <item>Splash…</item>
+        <item>FAKI!!! What are you think you doing?!</item>
+        <item>Just waking a lazy jerk, noting else</item>
+        <item>In 5 minute time we should report to Day master</item>
+        <item>You are right, yet I promise you, that you will regret about that bucket of cold water later</item>
+        <item>Yeah. Whatever…</item>
+        <item>I ready, lets be on our way.</item>
+    </string-array>
+    <string-array name="Chapter1_Name">
+        <item>Rosaline</item>
+        <item>Leave me alone! It's to early to be awake anyway!</item>
+        <item>Splash…</item>
+        <item>FAKI!!! What are you think you doing?!</item>
+        <item>Just waking a lazy jerk, noting else</item>
+        <item>In 5 minute time we should report to Day master</item>
+        <item>You are right, yet I promise you, that you will regret about that bucket of cold water later</item>
+        <item>Yeah. Whatever…</item>
+        <item>I ready, lets be on our way.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spells">
+        <item>Fire Ball</item>
+        <item>Ice Arrow</item>
+        <item>Stone Bolt</item>
+        <item>Wind Strike</item>
+    </string-array>
+</resources>
